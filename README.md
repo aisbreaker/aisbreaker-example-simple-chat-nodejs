@@ -1,5 +1,10 @@
 # Simple example for AIsBreaker with JavaScript and NodeJS: Simple Chat.
 
+## Deprecation
+
+**This repository will no longer be actively developed. For more details, please read: [AIsBreaker API is Now Deprecated - We Recommend Using LangChain Instead](https://aisbreaker.org/blog/2024-09-08-aisbreaker-api-deprecation-langchain-recommendation)**
+
+
 ## Introduction
 
 This repo contains the demo application `aisbreaker-simple-chat.js`
